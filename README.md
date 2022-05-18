@@ -1,2 +1,4 @@
-# Practice of Parallax effect using React.js
+# Practice of Parallax effect using React.js & parallax-react library
+
+
 
